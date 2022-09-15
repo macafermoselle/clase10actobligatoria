@@ -1,0 +1,15 @@
+.card-img-top{
+    object-fit: cover;
+    width:auto;
+    height: 350px;
+}
+
+
+.formulario {
+    margin-top: 20px;
+}
+
+
+.form-check{
+    margin-top: 50px;
+}
